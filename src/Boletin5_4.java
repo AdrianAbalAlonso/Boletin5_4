@@ -25,7 +25,7 @@ public class Boletin5_4 {
        restaurante.añadirPulpo(pulpo);
        restaurante.añadirPatatas(patatas);
        JOptionPane.showMessageDialog(null,"Grupo de 3 clientes que pueden comer pulpo hoy = "+ restaurante.capacidadPulpoClientes(pulpo));
-       JOptionPane.showMessageDialog(null,"Grupo de 3 que pueden comer patatas hoy = "+ restaurante.capacidadPatatasClientes(patatas));
+       JOptionPane.showMessageDialog(null,"Grupo de 3 clientes que pueden comer patatas hoy = "+ restaurante.capacidadPatatasClientes(patatas));
     }
     }
     
